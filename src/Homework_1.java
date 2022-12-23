@@ -48,12 +48,12 @@ public class Homework_1 {
         int b= 2;
         int c= 3;
 
-       if (a+b>c) && (b+c>a) && (a+c>b) ;
+       if (a+b>c) && (b+c>a) && (a+c>b)
         {
         System.out.println("Такой треугольник можно построить");
         }
 
-        else {
+       else {
             System.out.println ("Такой треугольник нельзя построить");
         }
 

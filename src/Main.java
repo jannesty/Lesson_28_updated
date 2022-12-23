@@ -132,12 +132,12 @@ public class Main {
             }
         } */
 
-        Scanner console = new Scanner(System.in);
+        /*Scanner console = new Scanner(System.in);
         String s = console.nextLine();
         int s_1= Integer.parseInt(s) ;
 
         System.out.println(s+1);
-        System.out.println(s_1+1);
+        System.out.println(s_1+1);*/
 
 
 
