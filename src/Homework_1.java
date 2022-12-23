@@ -1,10 +1,10 @@
 public class Homework_1 {
     public static void main(String[] args) {
-        int current_year = 2022;
+        int current_year =  2022;
         System.out.println(current_year);
-        int friend_Year = 1997;
+        int friend_Year =  1997;
         System.out.println(friend_Year);
-        System.out.println("My friend has 25 years old");
+        System.out.println(current_year - friend_Year);
 
         int my_number = 1993022;
         System.out.println(my_number);
@@ -48,10 +48,7 @@ public class Homework_1 {
         int b= 2;
         int c= 3;
 
-        if (a+b>c)
-        if (b+c>a)
-        if (a+c>b)
-
+       if (a+b>c) && (b+c>a) && (a+c>b) ;
         {
         System.out.println("Такой треугольник можно построить");
         }
